@@ -2,4 +2,4 @@
 
 ## Description
 
-**Based on CC2530 and eInk Display Zigbee Thermometer**
+**Based on CC2530/nRF52833 and eInk Display Zigbee Thermometer**
