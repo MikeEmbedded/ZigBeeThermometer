@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name CDRH4D18NP-2R2NC)(type Legacy)(uri ${KIPRJMOD}/CDRH4D18NP-2R2NC.lib)(options "")(descr ""))
+)

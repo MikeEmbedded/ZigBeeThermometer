@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX1678
+D 1 Cell to 2 Cell, Low-Noise, High-Efficiency, Step-Up DC-DC Converter
+K 1-Cell Step-Up Converter
+F https://datasheets.maximintegrated.com/en/ds/MAX1678.pdf
+$ENDCMP
+#
+#End Doc Library

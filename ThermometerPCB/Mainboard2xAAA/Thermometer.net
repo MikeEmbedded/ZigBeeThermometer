@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source D:\IC\TI\CC25xx\ZigBee\Thermometer\KiCAD\Thermometer.sch)
-    (date "26.04.2021 14:33:41")
+    (source D:\IC\GitHub\ZigBeeThermometer\ThermometerPCB\KiCAD\Mainboard2xAAA\Thermometer.sch)
+    (date "21.05.2021 15:01:24")
     (tool "Eeschema (5.1.8)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -324,7 +324,7 @@
     (library (logical Device)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/Device.lib"))
     (library (logical MyLib)
-      (uri D:\IC\TI\CC25xx\ZigBee\Thermometer\KiCAD/MyLib.lib))
+      (uri D:\IC\GitHub\ZigBeeThermometer\ThermometerPCB\KiCAD\Mainboard2xAAA/MyLib.lib))
     (library (logical RF_Module)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/RF_Module.lib"))
     (library (logical Sensor)
