@@ -1,0 +1,49 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="TemperatureSensorNRF52833"/>
+  <ProjectSessionItem path="TemperatureSensorNRF52833;dts files"/>
+  <ProjectSessionItem path="TemperatureSensorNRF52833;zephyr/merged.hex"/>
+  <ProjectSessionItem path="TemperatureSensorNRF52833;build"/>
+  <ProjectSessionItem path="TemperatureSensorNRF52833;build;app/libapp.a"/>
+  <ProjectSessionItem path="TemperatureSensorNRF52833;build;app/libapp.a;C_COMPILER__app_"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="2" y="552" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../src/main.c" selected="1" top="548" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="188" useTextEdit="1" openedFrom="C:/nRF/v1.5.1/nrf/samples/zigbee/TemperatureSensorNRF52833/src/main.c" useBinaryEdit="0" left="0" path="../../../../../nrfxlib/zboss/production/include/ha/zb_ha_dimmable_light.h" selected="0" top="158" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="194" useTextEdit="1" openedFrom="C:/nRF/v1.5.1/nrf/samples/zigbee/TemperatureSensorNRF52833/src/main.c" useBinaryEdit="0" left="0" path="../../../../../nrfxlib/zboss/production/include/zcl/zb_zcl_level_control.h" selected="0" top="174" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="zephyr/merged.hex" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Common" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
