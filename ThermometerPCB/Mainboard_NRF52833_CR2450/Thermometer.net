@@ -1,8 +1,8 @@
 (export (version D)
   (design
-    (source D:\IC\GitHub\ZigBeeThermometer\ThermometerPCB\KiCAD\Mainboard_NRF52833_CR2450\Thermometer.sch)
-    (date "25.05.2021 14:04:23")
-    (tool "Eeschema (5.1.10)-1")
+    (source E:\Mike\Projects\GitHub\ZigBeeThermometer\ThermometerPCB\Mainboard_NRF52833_CR2450\Thermometer.sch)
+    (date "06/20/21 21:09:00")
+    (tool "Eeschema (5.1.8)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title)
@@ -93,7 +93,7 @@
       (tstamp 60AB8F10))
     (comp (ref Y1)
       (value 32.768kHz)
-      (footprint Crystal:Crystal_SMD_0603-2Pin_6.0x3.5mm)
+      (footprint Crystal:Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm_HandSoldering)
       (datasheet ~)
       (libsource (lib Device) (part Crystal) (description "Two pin crystal"))
       (sheetpath (names /) (tstamps /))
@@ -321,7 +321,7 @@
     (library (logical Switch)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/Switch.lib"))
     (library (logical Thermometer-rescue)
-      (uri D:\IC\GitHub\ZigBeeThermometer\ThermometerPCB\KiCAD\Mainboard_NRF52833_CR2450/Thermometer-rescue.lib)))
+      (uri E:\Mike\Projects\GitHub\ZigBeeThermometer\ThermometerPCB\Mainboard_NRF52833_CR2450/Thermometer-rescue.lib)))
   (nets
     (net (code 1) (name /CLK)
       (node (ref J3) (pin 1))

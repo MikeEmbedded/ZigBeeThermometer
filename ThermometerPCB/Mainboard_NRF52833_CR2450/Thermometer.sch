@@ -407,7 +407,7 @@ U 1 1 60AC6B79
 P 4400 3750
 F 0 "Y1" H 4400 4018 50  0000 C CNN
 F 1 "32.768kHz" H 4400 3927 50  0000 C CNN
-F 2 "Crystal:Crystal_SMD_0603-2Pin_6.0x3.5mm" H 4400 3750 50  0001 C CNN
+F 2 "Crystal:Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm_HandSoldering" H 4400 3750 50  0001 C CNN
 F 3 "~" H 4400 3750 50  0001 C CNN
 	1    4400 3750
 	1    0    0    -1  

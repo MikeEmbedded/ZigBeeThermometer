@@ -1,8 +1,8 @@
 (export (version D)
   (design
-    (source D:\IC\GitHub\ZigBeeThermometer\ThermometerPCB\KiCAD\eInk_Si7021\eInk_Si7021.sch)
-    (date "25.05.2021 15:11:25")
-    (tool "Eeschema (5.1.10)-1")
+    (source E:\Mike\Projects\GitHub\ZigBeeThermometer\ThermometerPCB\eInk_Si7021\eInk_Si7021.sch)
+    (date "06/20/21 21:37:17")
+    (tool "Eeschema (5.1.8)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title)
@@ -408,7 +408,7 @@
         (pin (num 3) (name D) (type passive)))))
   (libraries
     (library (logical CDRH4D18NP-2R2NC)
-      (uri D:\IC\GitHub\ZigBeeThermometer\ThermometerPCB\KiCAD\eInk_Si7021/CDRH4D18NP-2R2NC.lib))
+      (uri E:\Mike\Projects\GitHub\ZigBeeThermometer\ThermometerPCB\eInk_Si7021/CDRH4D18NP-2R2NC.lib))
     (library (logical Connector_Generic)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/Connector_Generic.lib"))
     (library (logical Device)
